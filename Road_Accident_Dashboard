@@ -1,0 +1,33 @@
+**Road Accident Dashboard — Tableau Project**
+The dashboard provides a clear and structured view of road accident statistics, helping users understand:
+- Total number of accidents
+- Severity distribution (Fatal, Serious, Slight)
+- Monthly and yearly accident patterns
+- Key contributing factors 
+- Geographic accident distribution 
+This project demonstrates the use of interactive charts, filters, KPIs, maps, and visual storytelling in Tableau.
+
+🔗 View the interactive dashboard:
+https://public.tableau.com/app/profile/chehek.khindria/viz/RoadAccidentDashboard_17626266312950/Dashboard1
+
+🎯 Objective
+The goal of this project is to analyze road accident data and present insights in a dashboard format that is easy to understand, interactive, and visually appealing.
+
+🛠 Tools Used
+- Tableau Public — For building and publishing the dashboard
+- Excel / CSV dataset — Used as the data source
+
+📂 Files in This Repository
+- README.md — Project documentation
+- Dashboard-road.png 
+
+(Optional) data-file — Source data (only if you want to upload it)
+
+📈 Key Insights (General)
+- Accident numbers vary across months and years
+- Severity may show patterns (e.g., more slight accidents than fatal ones)
+- Seasonal or regional spikes may be visible
+- Helps identify areas needing improved road safety measures
+
+✔ Conclusion
+This Tableau dashboard effectively summarizes road accident data using interactive visuals, allowing users to explore patterns and severity in a clear and meaningful way.
